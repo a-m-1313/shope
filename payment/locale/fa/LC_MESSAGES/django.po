@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-31 14:33+0330\n"
+"PO-Revision-Date: 2024-03-31 14:34+0330\n"
+"Last-Translator: amir arsalan arsate <arsalwn@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Translated-Using: django-rosetta 0.10.0\n"
+
+#: .\templates\payment\already.html:5
+msgid "already payment"
+msgstr "پرداخت ثبت شده است!"
+
+#: .\templates\payment\already.html:13
+msgid "the purchase was already made"
+msgstr "پرداخت شما انجام شده است!"
+
+#: .\templates\payment\payment_ok.html:5
+msgid "ok payment"
+msgstr "پرداخت موفق"
+
+#: .\templates\payment\payment_ok.html:13
+msgid "the purchase was successful"
+msgstr "پرداخت شما با موفقیت انجام شد"
